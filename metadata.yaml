@@ -1,0 +1,38 @@
+_repo: The-Animals-Rebellion_17068
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thompson, G. H. (George Henry)
+    alias: Thompson, George Henry
+    birthdate: 1853
+    deathdate: 1953
+    gutenberg_agent_id: '7240'
+    url: http://www.gutenberg.org/2009/agents/7240
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bingham, Clifton
+    aliases:
+    - Bingham, Graham Clifton
+    - Bingham, G. Clifton (Graham Clifton)
+    birthdate: 1859
+    deathdate: 1913
+    gutenberg_agent_id: '7118'
+    url: http://www.gutenberg.org/2009/agents/7118
+description: ''
+gutenberg_issued: '2005-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcc 'PZ'
+title: The Animals' Rebellion
+url: http://www.gutenberg.org/ebooks/17068
